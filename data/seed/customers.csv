@@ -1,0 +1,501 @@
+customer_id,name,email,phone,city,signup_date,customer_segment
+CUST-00001,Kabir Nair,kabir.nair1@example.com,+91-7348697524,Delhi NCR,2025-03-22 00:00:00,High Frequency
+CUST-00002,Nisha Verma,nisha.verma2@example.com,+91-7011492154,Bengaluru,2025-07-29 00:00:00,Regular
+CUST-00003,Rhea Bose,rhea.bose3@example.com,+91-7140187131,Mumbai,2025-04-29 00:00:00,High Frequency
+CUST-00004,Priya Aggarwal,priya.aggarwal4@example.com,+91-7305714736,Mumbai,2025-12-18 00:00:00,High Frequency
+CUST-00005,Varun Kulkarni,varun.kulkarni5@example.com,+91-9839759520,Delhi NCR,2025-04-12 00:00:00,Regular
+CUST-00006,Nisha Patel,nisha.patel6@example.com,+91-7639904576,Delhi NCR,2025-05-17 00:00:00,Occasional
+CUST-00007,Rohan Sharma,rohan.sharma7@example.com,+91-8321182659,Bengaluru,2025-11-01 00:00:00,Regular
+CUST-00008,Gaurav Nair,gaurav.nair8@example.com,+91-7534094883,Mumbai,2025-08-28 00:00:00,Regular
+CUST-00009,Siddharth Nair,siddharth.nair9@example.com,+91-9319203166,Delhi NCR,2025-09-10 00:00:00,Regular
+CUST-00010,Rhea Sharma,rhea.sharma10@example.com,+91-8384360647,Mumbai,2025-11-06 00:00:00,High Frequency
+CUST-00011,Rohan Patel,rohan.patel11@example.com,+91-9470461357,Delhi NCR,2025-10-28 00:00:00,At Risk / Inactive
+CUST-00012,Varun Chatterjee,varun.chatterjee12@example.com,+91-7752438459,Bengaluru,2025-08-29 00:00:00,Regular
+CUST-00013,Arjun Nair,arjun.nair13@example.com,+91-9513971584,Bengaluru,2025-08-12 00:00:00,Regular
+CUST-00014,Diya Verma,diya.verma14@example.com,+91-8494481363,Mumbai,2025-07-29 00:00:00,High Frequency
+CUST-00015,Sneha Gupta,sneha.gupta15@example.com,+91-8768002206,Mumbai,2025-12-22 00:00:00,Regular
+CUST-00016,Siddharth Joshi,siddharth.joshi16@example.com,+91-8953462417,Bengaluru,2025-02-15 00:00:00,High Frequency
+CUST-00017,Kunal Verma,kunal.verma17@example.com,+91-9210174072,Mumbai,2025-01-01 00:00:00,Regular
+CUST-00018,Nisha Bose,nisha.bose18@example.com,+91-7232804774,Mumbai,2025-04-07 00:00:00,Regular
+CUST-00019,Rhea Bose,rhea.bose19@example.com,+91-8898551433,Delhi NCR,2025-01-27 00:00:00,High Frequency
+CUST-00020,Nisha Gupta,nisha.gupta20@example.com,+91-8881694278,Mumbai,2025-12-24 00:00:00,Regular
+CUST-00021,Aarav Kulkarni,aarav.kulkarni21@example.com,+91-8027774780,Delhi NCR,2025-12-30 00:00:00,High Frequency
+CUST-00022,Nisha Sharma,nisha.sharma22@example.com,+91-8752306681,Delhi NCR,2025-02-17 00:00:00,High Frequency
+CUST-00023,Sneha Bose,sneha.bose23@example.com,+91-9781891923,Bengaluru,2025-03-20 00:00:00,Regular
+CUST-00024,Priya Joshi,priya.joshi24@example.com,+91-8174350979,Delhi NCR,2025-08-01 00:00:00,Occasional
+CUST-00025,Diya Patel,diya.patel25@example.com,+91-9367665472,Mumbai,2025-03-16 00:00:00,High Frequency
+CUST-00026,Rhea Joshi,rhea.joshi26@example.com,+91-7586298866,Delhi NCR,2025-02-05 00:00:00,High Frequency
+CUST-00027,Meera Iyer,meera.iyer27@example.com,+91-8147497835,Delhi NCR,2025-01-02 00:00:00,High Frequency
+CUST-00028,Priya Chatterjee,priya.chatterjee28@example.com,+91-9834423953,Delhi NCR,2025-09-08 00:00:00,Occasional
+CUST-00029,Arjun Joshi,arjun.joshi29@example.com,+91-8482296058,Mumbai,2025-06-20 00:00:00,Regular
+CUST-00030,Nisha Mehta,nisha.mehta30@example.com,+91-8382023198,Mumbai,2025-04-07 00:00:00,At Risk / Inactive
+CUST-00031,Neha Chatterjee,neha.chatterjee31@example.com,+91-8003143045,Mumbai,2025-07-30 00:00:00,VIP / Power Shopper
+CUST-00032,Diya Aggarwal,diya.aggarwal32@example.com,+91-8658195603,Mumbai,2025-12-06 00:00:00,Occasional
+CUST-00033,Aditya Bose,aditya.bose33@example.com,+91-7542223599,Bengaluru,2025-09-15 00:00:00,At Risk / Inactive
+CUST-00034,Kunal Verma,kunal.verma34@example.com,+91-7428258482,Mumbai,2025-09-27 00:00:00,At Risk / Inactive
+CUST-00035,Aarav Aggarwal,aarav.aggarwal35@example.com,+91-8760844750,Bengaluru,2025-12-02 00:00:00,At Risk / Inactive
+CUST-00036,Rohan Bose,rohan.bose36@example.com,+91-8454109425,Mumbai,2025-11-16 00:00:00,Regular
+CUST-00037,Rohan Iyer,rohan.iyer37@example.com,+91-9291890389,Delhi NCR,2025-07-14 00:00:00,At Risk / Inactive
+CUST-00038,Diya Joshi,diya.joshi38@example.com,+91-9651968205,Bengaluru,2025-02-05 00:00:00,High Frequency
+CUST-00039,Priya Patel,priya.patel39@example.com,+91-7388176285,Delhi NCR,2025-08-11 00:00:00,At Risk / Inactive
+CUST-00040,Sneha Bose,sneha.bose40@example.com,+91-9980712298,Bengaluru,2025-06-03 00:00:00,At Risk / Inactive
+CUST-00041,Ananya Iyer,ananya.iyer41@example.com,+91-8260005019,Bengaluru,2025-07-03 00:00:00,High Frequency
+CUST-00042,Aditya Patel,aditya.patel42@example.com,+91-8769748771,Delhi NCR,2025-10-17 00:00:00,Regular
+CUST-00043,Ishita Gupta,ishita.gupta43@example.com,+91-7339166473,Bengaluru,2025-11-09 00:00:00,Occasional
+CUST-00044,Rhea Kulkarni,rhea.kulkarni44@example.com,+91-9137464556,Bengaluru,2025-10-26 00:00:00,VIP / Power Shopper
+CUST-00045,Arjun Kulkarni,arjun.kulkarni45@example.com,+91-8973840257,Mumbai,2025-05-11 00:00:00,Regular
+CUST-00046,Arjun Nair,arjun.nair46@example.com,+91-9347621138,Delhi NCR,2025-03-22 00:00:00,VIP / Power Shopper
+CUST-00047,Tanvi Chatterjee,tanvi.chatterjee47@example.com,+91-9744220825,Mumbai,2025-08-06 00:00:00,Regular
+CUST-00048,Arjun Nair,arjun.nair48@example.com,+91-8652244897,Bengaluru,2025-09-05 00:00:00,VIP / Power Shopper
+CUST-00049,Siddharth Chatterjee,siddharth.chatterjee49@example.com,+91-9468798461,Mumbai,2025-06-01 00:00:00,At Risk / Inactive
+CUST-00050,Priya Sharma,priya.sharma50@example.com,+91-8699972733,Delhi NCR,2025-05-21 00:00:00,VIP / Power Shopper
+CUST-00051,Ananya Chatterjee,ananya.chatterjee51@example.com,+91-9133427445,Delhi NCR,2025-05-27 00:00:00,Occasional
+CUST-00052,Neha Chatterjee,neha.chatterjee52@example.com,+91-7940617318,Mumbai,2025-11-22 00:00:00,High Frequency
+CUST-00053,Varun Kulkarni,varun.kulkarni53@example.com,+91-9831163141,Delhi NCR,2025-12-15 00:00:00,Occasional
+CUST-00054,Sneha Kulkarni,sneha.kulkarni54@example.com,+91-7169318686,Delhi NCR,2025-06-08 00:00:00,Occasional
+CUST-00055,Ananya Chatterjee,ananya.chatterjee55@example.com,+91-7564409423,Mumbai,2025-02-16 00:00:00,At Risk / Inactive
+CUST-00056,Kunal Aggarwal,kunal.aggarwal56@example.com,+91-7754368373,Mumbai,2025-04-13 00:00:00,VIP / Power Shopper
+CUST-00057,Nisha Iyer,nisha.iyer57@example.com,+91-9155192095,Delhi NCR,2025-05-20 00:00:00,Occasional
+CUST-00058,Varun Bose,varun.bose58@example.com,+91-8454770940,Mumbai,2025-02-28 00:00:00,Regular
+CUST-00059,Rohan Gupta,rohan.gupta59@example.com,+91-9904788278,Bengaluru,2025-12-12 00:00:00,At Risk / Inactive
+CUST-00060,Nisha Iyer,nisha.iyer60@example.com,+91-8694684834,Bengaluru,2025-01-08 00:00:00,High Frequency
+CUST-00061,Sneha Bose,sneha.bose61@example.com,+91-9889775885,Mumbai,2025-12-11 00:00:00,High Frequency
+CUST-00062,Siddharth Kulkarni,siddharth.kulkarni62@example.com,+91-7465342967,Mumbai,2025-12-12 00:00:00,High Frequency
+CUST-00063,Aarav Chatterjee,aarav.chatterjee63@example.com,+91-8408776235,Delhi NCR,2025-11-09 00:00:00,High Frequency
+CUST-00064,Rohan Kulkarni,rohan.kulkarni64@example.com,+91-8297896903,Mumbai,2025-11-29 00:00:00,Regular
+CUST-00065,Aditya Sharma,aditya.sharma65@example.com,+91-8307235909,Bengaluru,2025-09-10 00:00:00,VIP / Power Shopper
+CUST-00066,Neha Joshi,neha.joshi66@example.com,+91-8669221121,Bengaluru,2025-08-21 00:00:00,High Frequency
+CUST-00067,Nisha Mehta,nisha.mehta67@example.com,+91-7663670797,Delhi NCR,2025-08-01 00:00:00,Regular
+CUST-00068,Diya Chatterjee,diya.chatterjee68@example.com,+91-8201474778,Mumbai,2025-01-17 00:00:00,Regular
+CUST-00069,Kabir Bose,kabir.bose69@example.com,+91-8014096062,Mumbai,2025-07-05 00:00:00,VIP / Power Shopper
+CUST-00070,Tanvi Joshi,tanvi.joshi70@example.com,+91-8540492440,Delhi NCR,2025-02-01 00:00:00,High Frequency
+CUST-00071,Kabir Verma,kabir.verma71@example.com,+91-7393734347,Mumbai,2025-12-06 00:00:00,High Frequency
+CUST-00072,Rhea Sharma,rhea.sharma72@example.com,+91-8432410914,Bengaluru,2025-05-05 00:00:00,At Risk / Inactive
+CUST-00073,Gaurav Patel,gaurav.patel73@example.com,+91-9380304322,Bengaluru,2025-04-17 00:00:00,Regular
+CUST-00074,Neha Iyer,neha.iyer74@example.com,+91-9559721644,Bengaluru,2025-01-02 00:00:00,High Frequency
+CUST-00075,Aditya Gupta,aditya.gupta75@example.com,+91-8076551580,Delhi NCR,2025-03-31 00:00:00,VIP / Power Shopper
+CUST-00076,Aarav Gupta,aarav.gupta76@example.com,+91-8538638860,Bengaluru,2025-05-02 00:00:00,Regular
+CUST-00077,Aarav Gupta,aarav.gupta77@example.com,+91-7225052083,Mumbai,2025-03-06 00:00:00,Regular
+CUST-00078,Rahul Verma,rahul.verma78@example.com,+91-7272979685,Delhi NCR,2025-09-01 00:00:00,Regular
+CUST-00079,Tanvi Joshi,tanvi.joshi79@example.com,+91-7468383404,Delhi NCR,2025-08-20 00:00:00,Regular
+CUST-00080,Rhea Sharma,rhea.sharma80@example.com,+91-9829967158,Delhi NCR,2025-09-24 00:00:00,High Frequency
+CUST-00081,Aarav Sharma,aarav.sharma81@example.com,+91-8724932977,Mumbai,2025-08-07 00:00:00,Regular
+CUST-00082,Diya Aggarwal,diya.aggarwal82@example.com,+91-7315640205,Mumbai,2025-02-11 00:00:00,High Frequency
+CUST-00083,Aditya Verma,aditya.verma83@example.com,+91-8181184718,Bengaluru,2025-11-16 00:00:00,Regular
+CUST-00084,Nisha Aggarwal,nisha.aggarwal84@example.com,+91-8635971911,Mumbai,2025-11-02 00:00:00,Regular
+CUST-00085,Arjun Joshi,arjun.joshi85@example.com,+91-8847692041,Delhi NCR,2025-02-20 00:00:00,Occasional
+CUST-00086,Sneha Kulkarni,sneha.kulkarni86@example.com,+91-9367966782,Delhi NCR,2025-04-21 00:00:00,Regular
+CUST-00087,Neha Mehta,neha.mehta87@example.com,+91-8947762953,Mumbai,2025-07-24 00:00:00,Regular
+CUST-00088,Sneha Iyer,sneha.iyer88@example.com,+91-8342278523,Mumbai,2025-12-07 00:00:00,High Frequency
+CUST-00089,Aditya Kulkarni,aditya.kulkarni89@example.com,+91-7288335378,Mumbai,2025-02-16 00:00:00,Occasional
+CUST-00090,Rohan Mehta,rohan.mehta90@example.com,+91-8600506062,Bengaluru,2025-03-08 00:00:00,Regular
+CUST-00091,Gaurav Joshi,gaurav.joshi91@example.com,+91-8415818695,Delhi NCR,2025-12-10 00:00:00,VIP / Power Shopper
+CUST-00092,Tanvi Kulkarni,tanvi.kulkarni92@example.com,+91-7220959215,Mumbai,2025-05-28 00:00:00,Regular
+CUST-00093,Tanvi Verma,tanvi.verma93@example.com,+91-9179320310,Delhi NCR,2025-04-19 00:00:00,High Frequency
+CUST-00094,Diya Patel,diya.patel94@example.com,+91-8503728142,Bengaluru,2025-10-12 00:00:00,High Frequency
+CUST-00095,Varun Chatterjee,varun.chatterjee95@example.com,+91-8843023757,Bengaluru,2025-10-15 00:00:00,At Risk / Inactive
+CUST-00096,Rhea Chatterjee,rhea.chatterjee96@example.com,+91-9760371883,Delhi NCR,2025-10-13 00:00:00,VIP / Power Shopper
+CUST-00097,Varun Sharma,varun.sharma97@example.com,+91-8173687378,Bengaluru,2025-12-26 00:00:00,Occasional
+CUST-00098,Kunal Iyer,kunal.iyer98@example.com,+91-7779130936,Bengaluru,2025-03-15 00:00:00,Regular
+CUST-00099,Siddharth Verma,siddharth.verma99@example.com,+91-9719453060,Bengaluru,2025-01-16 00:00:00,VIP / Power Shopper
+CUST-00100,Rahul Patel,rahul.patel100@example.com,+91-8803166816,Mumbai,2025-08-21 00:00:00,High Frequency
+CUST-00101,Tanvi Nair,tanvi.nair101@example.com,+91-8393213895,Delhi NCR,2025-10-18 00:00:00,Regular
+CUST-00102,Ananya Gupta,ananya.gupta102@example.com,+91-9653594796,Bengaluru,2025-01-26 00:00:00,Regular
+CUST-00103,Varun Bose,varun.bose103@example.com,+91-8821129578,Delhi NCR,2025-09-06 00:00:00,Regular
+CUST-00104,Meera Nair,meera.nair104@example.com,+91-9200510647,Bengaluru,2025-02-28 00:00:00,High Frequency
+CUST-00105,Sneha Nair,sneha.nair105@example.com,+91-9914076272,Delhi NCR,2025-10-31 00:00:00,Regular
+CUST-00106,Priya Sharma,priya.sharma106@example.com,+91-8697643337,Bengaluru,2025-11-03 00:00:00,VIP / Power Shopper
+CUST-00107,Kabir Nair,kabir.nair107@example.com,+91-7589418977,Bengaluru,2025-05-11 00:00:00,High Frequency
+CUST-00108,Sneha Sharma,sneha.sharma108@example.com,+91-8849649210,Mumbai,2025-03-31 00:00:00,VIP / Power Shopper
+CUST-00109,Nisha Aggarwal,nisha.aggarwal109@example.com,+91-9148610411,Bengaluru,2025-10-14 00:00:00,Occasional
+CUST-00110,Tanvi Verma,tanvi.verma110@example.com,+91-7181686832,Mumbai,2025-08-12 00:00:00,VIP / Power Shopper
+CUST-00111,Rohan Iyer,rohan.iyer111@example.com,+91-8843761970,Delhi NCR,2025-10-21 00:00:00,Regular
+CUST-00112,Meera Nair,meera.nair112@example.com,+91-8739600515,Bengaluru,2025-01-11 00:00:00,At Risk / Inactive
+CUST-00113,Ishita Chatterjee,ishita.chatterjee113@example.com,+91-9961852565,Mumbai,2025-07-05 00:00:00,VIP / Power Shopper
+CUST-00114,Sneha Patel,sneha.patel114@example.com,+91-9529182928,Mumbai,2025-07-25 00:00:00,Regular
+CUST-00115,Siddharth Nair,siddharth.nair115@example.com,+91-8458198451,Delhi NCR,2025-04-24 00:00:00,High Frequency
+CUST-00116,Ishita Verma,ishita.verma116@example.com,+91-9719679239,Delhi NCR,2025-02-28 00:00:00,Regular
+CUST-00117,Kabir Iyer,kabir.iyer117@example.com,+91-9772156452,Mumbai,2025-03-17 00:00:00,High Frequency
+CUST-00118,Aditya Nair,aditya.nair118@example.com,+91-7745172634,Bengaluru,2025-11-05 00:00:00,High Frequency
+CUST-00119,Rohan Gupta,rohan.gupta119@example.com,+91-9122216473,Delhi NCR,2025-08-26 00:00:00,Occasional
+CUST-00120,Gaurav Bose,gaurav.bose120@example.com,+91-9424473755,Delhi NCR,2025-11-26 00:00:00,Regular
+CUST-00121,Rhea Iyer,rhea.iyer121@example.com,+91-8357806226,Delhi NCR,2025-03-19 00:00:00,Regular
+CUST-00122,Diya Bose,diya.bose122@example.com,+91-8300603858,Delhi NCR,2025-05-21 00:00:00,Regular
+CUST-00123,Tanvi Joshi,tanvi.joshi123@example.com,+91-8333191560,Bengaluru,2025-08-25 00:00:00,Regular
+CUST-00124,Ananya Iyer,ananya.iyer124@example.com,+91-7329557138,Mumbai,2025-11-27 00:00:00,Occasional
+CUST-00125,Rohan Chatterjee,rohan.chatterjee125@example.com,+91-9177839698,Delhi NCR,2025-07-16 00:00:00,Regular
+CUST-00126,Nisha Aggarwal,nisha.aggarwal126@example.com,+91-8931591531,Bengaluru,2025-10-20 00:00:00,Regular
+CUST-00127,Kunal Chatterjee,kunal.chatterjee127@example.com,+91-9153356179,Mumbai,2025-03-19 00:00:00,At Risk / Inactive
+CUST-00128,Arjun Verma,arjun.verma128@example.com,+91-7362190850,Mumbai,2025-09-16 00:00:00,Regular
+CUST-00129,Ananya Patel,ananya.patel129@example.com,+91-8880157459,Delhi NCR,2025-08-13 00:00:00,Regular
+CUST-00130,Rhea Gupta,rhea.gupta130@example.com,+91-8601387070,Mumbai,2025-05-25 00:00:00,High Frequency
+CUST-00131,Kunal Kulkarni,kunal.kulkarni131@example.com,+91-7224908174,Delhi NCR,2025-11-20 00:00:00,Regular
+CUST-00132,Rohan Iyer,rohan.iyer132@example.com,+91-9396433758,Bengaluru,2025-12-14 00:00:00,High Frequency
+CUST-00133,Varun Aggarwal,varun.aggarwal133@example.com,+91-9588580274,Delhi NCR,2025-03-18 00:00:00,High Frequency
+CUST-00134,Gaurav Kulkarni,gaurav.kulkarni134@example.com,+91-8502468844,Bengaluru,2025-06-08 00:00:00,At Risk / Inactive
+CUST-00135,Siddharth Gupta,siddharth.gupta135@example.com,+91-7363865392,Delhi NCR,2025-06-08 00:00:00,Regular
+CUST-00136,Kunal Gupta,kunal.gupta136@example.com,+91-9943832590,Delhi NCR,2025-09-27 00:00:00,VIP / Power Shopper
+CUST-00137,Meera Joshi,meera.joshi137@example.com,+91-7078299575,Mumbai,2025-07-05 00:00:00,High Frequency
+CUST-00138,Kabir Iyer,kabir.iyer138@example.com,+91-7824656200,Mumbai,2025-04-26 00:00:00,At Risk / Inactive
+CUST-00139,Aditya Verma,aditya.verma139@example.com,+91-7434396266,Mumbai,2025-09-17 00:00:00,Occasional
+CUST-00140,Rahul Sharma,rahul.sharma140@example.com,+91-8446391956,Delhi NCR,2025-11-13 00:00:00,VIP / Power Shopper
+CUST-00141,Siddharth Gupta,siddharth.gupta141@example.com,+91-7776727492,Bengaluru,2025-12-21 00:00:00,Occasional
+CUST-00142,Ishita Aggarwal,ishita.aggarwal142@example.com,+91-7187657564,Mumbai,2025-07-30 00:00:00,High Frequency
+CUST-00143,Neha Bose,neha.bose143@example.com,+91-8223756141,Delhi NCR,2025-08-18 00:00:00,High Frequency
+CUST-00144,Neha Nair,neha.nair144@example.com,+91-7833293142,Mumbai,2025-07-08 00:00:00,Regular
+CUST-00145,Gaurav Bose,gaurav.bose145@example.com,+91-8210200352,Mumbai,2025-07-15 00:00:00,Regular
+CUST-00146,Meera Gupta,meera.gupta146@example.com,+91-9597009738,Bengaluru,2025-03-12 00:00:00,Occasional
+CUST-00147,Ananya Kulkarni,ananya.kulkarni147@example.com,+91-8594343845,Mumbai,2025-10-11 00:00:00,At Risk / Inactive
+CUST-00148,Rahul Verma,rahul.verma148@example.com,+91-7360240905,Mumbai,2025-03-24 00:00:00,High Frequency
+CUST-00149,Rahul Gupta,rahul.gupta149@example.com,+91-7393906783,Mumbai,2025-04-24 00:00:00,Occasional
+CUST-00150,Tanvi Sharma,tanvi.sharma150@example.com,+91-7228736604,Mumbai,2025-07-22 00:00:00,Regular
+CUST-00151,Neha Mehta,neha.mehta151@example.com,+91-8610237679,Bengaluru,2025-04-25 00:00:00,VIP / Power Shopper
+CUST-00152,Sneha Aggarwal,sneha.aggarwal152@example.com,+91-8440061103,Delhi NCR,2025-03-16 00:00:00,VIP / Power Shopper
+CUST-00153,Priya Bose,priya.bose153@example.com,+91-7596110070,Delhi NCR,2025-12-28 00:00:00,Regular
+CUST-00154,Rhea Sharma,rhea.sharma154@example.com,+91-7081621076,Bengaluru,2025-05-12 00:00:00,High Frequency
+CUST-00155,Aditya Joshi,aditya.joshi155@example.com,+91-9615120114,Delhi NCR,2025-09-28 00:00:00,Regular
+CUST-00156,Priya Patel,priya.patel156@example.com,+91-7523334661,Mumbai,2025-01-25 00:00:00,High Frequency
+CUST-00157,Rhea Bose,rhea.bose157@example.com,+91-7476131010,Bengaluru,2025-09-13 00:00:00,Regular
+CUST-00158,Aarav Kulkarni,aarav.kulkarni158@example.com,+91-9469810046,Delhi NCR,2025-05-04 00:00:00,Regular
+CUST-00159,Priya Mehta,priya.mehta159@example.com,+91-9640587058,Bengaluru,2025-06-30 00:00:00,High Frequency
+CUST-00160,Meera Gupta,meera.gupta160@example.com,+91-9869961166,Delhi NCR,2025-02-13 00:00:00,Regular
+CUST-00161,Tanvi Verma,tanvi.verma161@example.com,+91-9336814230,Delhi NCR,2025-09-17 00:00:00,Occasional
+CUST-00162,Rahul Joshi,rahul.joshi162@example.com,+91-8676986013,Bengaluru,2025-08-29 00:00:00,VIP / Power Shopper
+CUST-00163,Siddharth Iyer,siddharth.iyer163@example.com,+91-7069759864,Mumbai,2025-07-02 00:00:00,Occasional
+CUST-00164,Tanvi Patel,tanvi.patel164@example.com,+91-9822241896,Delhi NCR,2025-11-18 00:00:00,VIP / Power Shopper
+CUST-00165,Gaurav Aggarwal,gaurav.aggarwal165@example.com,+91-7572989855,Mumbai,2025-01-23 00:00:00,High Frequency
+CUST-00166,Kunal Kulkarni,kunal.kulkarni166@example.com,+91-9940689225,Bengaluru,2025-08-26 00:00:00,At Risk / Inactive
+CUST-00167,Diya Kulkarni,diya.kulkarni167@example.com,+91-7579187439,Bengaluru,2025-02-02 00:00:00,Regular
+CUST-00168,Arjun Sharma,arjun.sharma168@example.com,+91-7865826728,Mumbai,2025-01-23 00:00:00,Occasional
+CUST-00169,Ananya Iyer,ananya.iyer169@example.com,+91-9213555655,Mumbai,2025-07-23 00:00:00,At Risk / Inactive
+CUST-00170,Nisha Bose,nisha.bose170@example.com,+91-7157284993,Mumbai,2025-11-28 00:00:00,High Frequency
+CUST-00171,Tanvi Sharma,tanvi.sharma171@example.com,+91-8425605673,Delhi NCR,2025-05-20 00:00:00,VIP / Power Shopper
+CUST-00172,Tanvi Mehta,tanvi.mehta172@example.com,+91-8888654461,Mumbai,2025-07-17 00:00:00,High Frequency
+CUST-00173,Ishita Bose,ishita.bose173@example.com,+91-9136846691,Delhi NCR,2025-07-08 00:00:00,At Risk / Inactive
+CUST-00174,Rahul Nair,rahul.nair174@example.com,+91-8823212172,Bengaluru,2025-02-10 00:00:00,Regular
+CUST-00175,Ishita Joshi,ishita.joshi175@example.com,+91-8379592595,Mumbai,2025-02-22 00:00:00,VIP / Power Shopper
+CUST-00176,Priya Nair,priya.nair176@example.com,+91-9588240189,Mumbai,2025-08-07 00:00:00,High Frequency
+CUST-00177,Arjun Iyer,arjun.iyer177@example.com,+91-7181914018,Mumbai,2025-06-30 00:00:00,Regular
+CUST-00178,Meera Nair,meera.nair178@example.com,+91-7246351029,Delhi NCR,2025-02-08 00:00:00,Regular
+CUST-00179,Siddharth Iyer,siddharth.iyer179@example.com,+91-9918046336,Delhi NCR,2025-03-23 00:00:00,At Risk / Inactive
+CUST-00180,Aditya Chatterjee,aditya.chatterjee180@example.com,+91-8881937953,Delhi NCR,2025-01-18 00:00:00,VIP / Power Shopper
+CUST-00181,Neha Kulkarni,neha.kulkarni181@example.com,+91-8555424924,Mumbai,2025-07-16 00:00:00,At Risk / Inactive
+CUST-00182,Ananya Chatterjee,ananya.chatterjee182@example.com,+91-9916549321,Bengaluru,2025-08-19 00:00:00,At Risk / Inactive
+CUST-00183,Tanvi Bose,tanvi.bose183@example.com,+91-9464975279,Bengaluru,2025-03-12 00:00:00,Regular
+CUST-00184,Siddharth Iyer,siddharth.iyer184@example.com,+91-8196963451,Delhi NCR,2025-05-08 00:00:00,At Risk / Inactive
+CUST-00185,Aarav Aggarwal,aarav.aggarwal185@example.com,+91-9143377496,Bengaluru,2025-09-23 00:00:00,High Frequency
+CUST-00186,Nisha Verma,nisha.verma186@example.com,+91-8117936038,Mumbai,2025-12-27 00:00:00,Regular
+CUST-00187,Rhea Nair,rhea.nair187@example.com,+91-9109688769,Delhi NCR,2025-04-13 00:00:00,VIP / Power Shopper
+CUST-00188,Rohan Bose,rohan.bose188@example.com,+91-8911737999,Bengaluru,2025-02-14 00:00:00,Occasional
+CUST-00189,Kunal Kulkarni,kunal.kulkarni189@example.com,+91-7278911214,Mumbai,2025-10-09 00:00:00,Regular
+CUST-00190,Priya Gupta,priya.gupta190@example.com,+91-9738900744,Delhi NCR,2025-03-31 00:00:00,Occasional
+CUST-00191,Rahul Patel,rahul.patel191@example.com,+91-7863204110,Bengaluru,2025-03-13 00:00:00,High Frequency
+CUST-00192,Diya Sharma,diya.sharma192@example.com,+91-9379503963,Mumbai,2025-10-21 00:00:00,High Frequency
+CUST-00193,Nisha Gupta,nisha.gupta193@example.com,+91-7370292681,Delhi NCR,2025-02-03 00:00:00,High Frequency
+CUST-00194,Diya Joshi,diya.joshi194@example.com,+91-8758503592,Mumbai,2025-10-22 00:00:00,VIP / Power Shopper
+CUST-00195,Kunal Kulkarni,kunal.kulkarni195@example.com,+91-8932625737,Bengaluru,2025-08-27 00:00:00,Regular
+CUST-00196,Tanvi Gupta,tanvi.gupta196@example.com,+91-9747893988,Delhi NCR,2025-10-28 00:00:00,High Frequency
+CUST-00197,Aditya Mehta,aditya.mehta197@example.com,+91-7237996376,Delhi NCR,2025-03-05 00:00:00,Regular
+CUST-00198,Priya Gupta,priya.gupta198@example.com,+91-8385817349,Bengaluru,2025-12-30 00:00:00,High Frequency
+CUST-00199,Rahul Nair,rahul.nair199@example.com,+91-8076341629,Bengaluru,2025-04-11 00:00:00,Regular
+CUST-00200,Nisha Nair,nisha.nair200@example.com,+91-9684450592,Bengaluru,2025-06-05 00:00:00,Regular
+CUST-00201,Rohan Joshi,rohan.joshi201@example.com,+91-7724285673,Delhi NCR,2025-10-31 00:00:00,At Risk / Inactive
+CUST-00202,Aditya Gupta,aditya.gupta202@example.com,+91-9682117678,Delhi NCR,2025-11-06 00:00:00,High Frequency
+CUST-00203,Gaurav Sharma,gaurav.sharma203@example.com,+91-7348849508,Bengaluru,2025-01-24 00:00:00,At Risk / Inactive
+CUST-00204,Gaurav Nair,gaurav.nair204@example.com,+91-7905415100,Delhi NCR,2025-10-20 00:00:00,Regular
+CUST-00205,Aarav Bose,aarav.bose205@example.com,+91-9343237444,Delhi NCR,2025-05-29 00:00:00,Regular
+CUST-00206,Priya Bose,priya.bose206@example.com,+91-9942013255,Bengaluru,2025-07-27 00:00:00,High Frequency
+CUST-00207,Rohan Aggarwal,rohan.aggarwal207@example.com,+91-7678950361,Bengaluru,2025-08-14 00:00:00,Regular
+CUST-00208,Arjun Patel,arjun.patel208@example.com,+91-9605585995,Mumbai,2025-03-15 00:00:00,High Frequency
+CUST-00209,Kunal Aggarwal,kunal.aggarwal209@example.com,+91-8712474804,Mumbai,2025-03-08 00:00:00,Occasional
+CUST-00210,Rahul Joshi,rahul.joshi210@example.com,+91-8370592316,Bengaluru,2025-05-04 00:00:00,Regular
+CUST-00211,Varun Bose,varun.bose211@example.com,+91-7605064858,Bengaluru,2025-02-19 00:00:00,VIP / Power Shopper
+CUST-00212,Siddharth Chatterjee,siddharth.chatterjee212@example.com,+91-8066312714,Mumbai,2025-03-23 00:00:00,Occasional
+CUST-00213,Gaurav Aggarwal,gaurav.aggarwal213@example.com,+91-7815331250,Mumbai,2025-03-23 00:00:00,Regular
+CUST-00214,Rahul Bose,rahul.bose214@example.com,+91-8325171272,Mumbai,2025-09-12 00:00:00,VIP / Power Shopper
+CUST-00215,Siddharth Joshi,siddharth.joshi215@example.com,+91-8033921654,Mumbai,2025-04-21 00:00:00,Regular
+CUST-00216,Ananya Sharma,ananya.sharma216@example.com,+91-9125554417,Mumbai,2025-11-02 00:00:00,Occasional
+CUST-00217,Diya Nair,diya.nair217@example.com,+91-7035121678,Delhi NCR,2025-02-25 00:00:00,Regular
+CUST-00218,Varun Aggarwal,varun.aggarwal218@example.com,+91-8731963069,Mumbai,2025-07-07 00:00:00,VIP / Power Shopper
+CUST-00219,Ananya Chatterjee,ananya.chatterjee219@example.com,+91-7836038153,Delhi NCR,2025-07-05 00:00:00,Regular
+CUST-00220,Rohan Mehta,rohan.mehta220@example.com,+91-8934257315,Delhi NCR,2025-10-09 00:00:00,High Frequency
+CUST-00221,Rhea Kulkarni,rhea.kulkarni221@example.com,+91-7510289448,Delhi NCR,2025-03-07 00:00:00,At Risk / Inactive
+CUST-00222,Siddharth Iyer,siddharth.iyer222@example.com,+91-9395869480,Mumbai,2025-07-07 00:00:00,Occasional
+CUST-00223,Kabir Chatterjee,kabir.chatterjee223@example.com,+91-8723944394,Delhi NCR,2025-09-14 00:00:00,VIP / Power Shopper
+CUST-00224,Ananya Gupta,ananya.gupta224@example.com,+91-8430398942,Delhi NCR,2025-08-31 00:00:00,Regular
+CUST-00225,Aditya Chatterjee,aditya.chatterjee225@example.com,+91-7600354779,Delhi NCR,2025-06-17 00:00:00,At Risk / Inactive
+CUST-00226,Kunal Gupta,kunal.gupta226@example.com,+91-9647849438,Mumbai,2025-06-03 00:00:00,Regular
+CUST-00227,Rahul Joshi,rahul.joshi227@example.com,+91-9103875358,Delhi NCR,2025-12-29 00:00:00,Regular
+CUST-00228,Diya Sharma,diya.sharma228@example.com,+91-8422663210,Mumbai,2025-12-11 00:00:00,VIP / Power Shopper
+CUST-00229,Meera Chatterjee,meera.chatterjee229@example.com,+91-9955124970,Mumbai,2025-11-19 00:00:00,VIP / Power Shopper
+CUST-00230,Diya Nair,diya.nair230@example.com,+91-9484528348,Delhi NCR,2025-10-23 00:00:00,High Frequency
+CUST-00231,Ananya Chatterjee,ananya.chatterjee231@example.com,+91-7732343731,Mumbai,2025-09-26 00:00:00,Regular
+CUST-00232,Rhea Mehta,rhea.mehta232@example.com,+91-9923699745,Bengaluru,2025-05-05 00:00:00,VIP / Power Shopper
+CUST-00233,Sneha Patel,sneha.patel233@example.com,+91-8894246230,Bengaluru,2025-06-10 00:00:00,Regular
+CUST-00234,Meera Aggarwal,meera.aggarwal234@example.com,+91-8762557538,Bengaluru,2025-09-14 00:00:00,Occasional
+CUST-00235,Diya Aggarwal,diya.aggarwal235@example.com,+91-7267496095,Delhi NCR,2025-12-28 00:00:00,VIP / Power Shopper
+CUST-00236,Kabir Joshi,kabir.joshi236@example.com,+91-9844242456,Mumbai,2025-09-02 00:00:00,Regular
+CUST-00237,Kunal Gupta,kunal.gupta237@example.com,+91-9289763301,Mumbai,2025-06-25 00:00:00,Regular
+CUST-00238,Varun Chatterjee,varun.chatterjee238@example.com,+91-7825768309,Mumbai,2025-05-07 00:00:00,High Frequency
+CUST-00239,Priya Patel,priya.patel239@example.com,+91-8241263320,Mumbai,2025-12-27 00:00:00,High Frequency
+CUST-00240,Diya Iyer,diya.iyer240@example.com,+91-8498098234,Mumbai,2025-10-14 00:00:00,At Risk / Inactive
+CUST-00241,Varun Nair,varun.nair241@example.com,+91-9463064097,Bengaluru,2025-12-13 00:00:00,Regular
+CUST-00242,Siddharth Iyer,siddharth.iyer242@example.com,+91-8247484671,Bengaluru,2025-01-22 00:00:00,High Frequency
+CUST-00243,Rohan Iyer,rohan.iyer243@example.com,+91-9817378520,Mumbai,2025-05-12 00:00:00,Regular
+CUST-00244,Kabir Patel,kabir.patel244@example.com,+91-8164506150,Delhi NCR,2025-10-15 00:00:00,Regular
+CUST-00245,Aditya Verma,aditya.verma245@example.com,+91-9520417815,Delhi NCR,2025-05-03 00:00:00,High Frequency
+CUST-00246,Rahul Patel,rahul.patel246@example.com,+91-8000025413,Delhi NCR,2025-01-27 00:00:00,VIP / Power Shopper
+CUST-00247,Kunal Aggarwal,kunal.aggarwal247@example.com,+91-7431837075,Mumbai,2025-12-15 00:00:00,Occasional
+CUST-00248,Aarav Joshi,aarav.joshi248@example.com,+91-8747654202,Bengaluru,2025-12-01 00:00:00,At Risk / Inactive
+CUST-00249,Diya Bose,diya.bose249@example.com,+91-7856656865,Delhi NCR,2025-05-28 00:00:00,High Frequency
+CUST-00250,Ananya Verma,ananya.verma250@example.com,+91-9465883999,Delhi NCR,2025-04-29 00:00:00,Regular
+CUST-00251,Ananya Gupta,ananya.gupta251@example.com,+91-7755006725,Mumbai,2025-01-19 00:00:00,At Risk / Inactive
+CUST-00252,Siddharth Bose,siddharth.bose252@example.com,+91-8243251189,Bengaluru,2025-01-20 00:00:00,VIP / Power Shopper
+CUST-00253,Gaurav Chatterjee,gaurav.chatterjee253@example.com,+91-8438994940,Bengaluru,2025-05-26 00:00:00,Regular
+CUST-00254,Nisha Joshi,nisha.joshi254@example.com,+91-7576384364,Mumbai,2025-09-16 00:00:00,Regular
+CUST-00255,Kabir Verma,kabir.verma255@example.com,+91-7697907532,Mumbai,2025-08-23 00:00:00,Regular
+CUST-00256,Ishita Sharma,ishita.sharma256@example.com,+91-8447885778,Delhi NCR,2025-06-01 00:00:00,Regular
+CUST-00257,Kabir Gupta,kabir.gupta257@example.com,+91-9743306394,Delhi NCR,2025-07-27 00:00:00,Occasional
+CUST-00258,Rahul Iyer,rahul.iyer258@example.com,+91-8721565695,Bengaluru,2025-12-09 00:00:00,VIP / Power Shopper
+CUST-00259,Aditya Bose,aditya.bose259@example.com,+91-8065354117,Mumbai,2025-01-04 00:00:00,High Frequency
+CUST-00260,Neha Bose,neha.bose260@example.com,+91-8415729895,Mumbai,2025-06-04 00:00:00,Regular
+CUST-00261,Gaurav Sharma,gaurav.sharma261@example.com,+91-9807548688,Mumbai,2025-07-04 00:00:00,Regular
+CUST-00262,Ananya Kulkarni,ananya.kulkarni262@example.com,+91-8998856257,Bengaluru,2025-06-07 00:00:00,High Frequency
+CUST-00263,Rahul Aggarwal,rahul.aggarwal263@example.com,+91-9964774623,Mumbai,2025-03-02 00:00:00,Regular
+CUST-00264,Priya Iyer,priya.iyer264@example.com,+91-7948540266,Delhi NCR,2025-04-23 00:00:00,At Risk / Inactive
+CUST-00265,Diya Gupta,diya.gupta265@example.com,+91-9601628976,Mumbai,2025-07-11 00:00:00,Regular
+CUST-00266,Nisha Bose,nisha.bose266@example.com,+91-9852263888,Delhi NCR,2025-04-22 00:00:00,Occasional
+CUST-00267,Rhea Verma,rhea.verma267@example.com,+91-8918767949,Delhi NCR,2025-09-28 00:00:00,Regular
+CUST-00268,Rohan Chatterjee,rohan.chatterjee268@example.com,+91-7265248799,Bengaluru,2025-10-08 00:00:00,At Risk / Inactive
+CUST-00269,Kabir Chatterjee,kabir.chatterjee269@example.com,+91-7643611097,Delhi NCR,2025-03-26 00:00:00,High Frequency
+CUST-00270,Rahul Bose,rahul.bose270@example.com,+91-9921845810,Bengaluru,2025-04-16 00:00:00,Regular
+CUST-00271,Diya Verma,diya.verma271@example.com,+91-8913333579,Delhi NCR,2025-01-29 00:00:00,Regular
+CUST-00272,Rahul Mehta,rahul.mehta272@example.com,+91-9421980125,Mumbai,2025-01-30 00:00:00,Regular
+CUST-00273,Priya Aggarwal,priya.aggarwal273@example.com,+91-8700586760,Bengaluru,2025-05-11 00:00:00,Occasional
+CUST-00274,Kabir Chatterjee,kabir.chatterjee274@example.com,+91-7194518221,Bengaluru,2025-08-05 00:00:00,High Frequency
+CUST-00275,Rohan Joshi,rohan.joshi275@example.com,+91-7296434961,Bengaluru,2025-08-30 00:00:00,VIP / Power Shopper
+CUST-00276,Meera Gupta,meera.gupta276@example.com,+91-9755328890,Bengaluru,2025-11-27 00:00:00,At Risk / Inactive
+CUST-00277,Tanvi Mehta,tanvi.mehta277@example.com,+91-8621334484,Mumbai,2025-07-12 00:00:00,VIP / Power Shopper
+CUST-00278,Nisha Gupta,nisha.gupta278@example.com,+91-8493660313,Delhi NCR,2025-03-02 00:00:00,High Frequency
+CUST-00279,Nisha Mehta,nisha.mehta279@example.com,+91-7546951552,Delhi NCR,2025-04-25 00:00:00,Occasional
+CUST-00280,Aarav Nair,aarav.nair280@example.com,+91-9892659845,Mumbai,2025-10-06 00:00:00,Regular
+CUST-00281,Siddharth Patel,siddharth.patel281@example.com,+91-8978370498,Bengaluru,2025-06-27 00:00:00,High Frequency
+CUST-00282,Kabir Aggarwal,kabir.aggarwal282@example.com,+91-7138372291,Bengaluru,2025-12-05 00:00:00,Regular
+CUST-00283,Aarav Patel,aarav.patel283@example.com,+91-7289012242,Bengaluru,2025-02-21 00:00:00,Regular
+CUST-00284,Arjun Chatterjee,arjun.chatterjee284@example.com,+91-7209063208,Delhi NCR,2025-05-06 00:00:00,Regular
+CUST-00285,Siddharth Bose,siddharth.bose285@example.com,+91-9318250726,Bengaluru,2025-04-22 00:00:00,Occasional
+CUST-00286,Ananya Gupta,ananya.gupta286@example.com,+91-8242377075,Delhi NCR,2025-04-30 00:00:00,Occasional
+CUST-00287,Gaurav Iyer,gaurav.iyer287@example.com,+91-9568036839,Delhi NCR,2025-12-11 00:00:00,Occasional
+CUST-00288,Neha Nair,neha.nair288@example.com,+91-9835590759,Bengaluru,2025-09-24 00:00:00,High Frequency
+CUST-00289,Priya Nair,priya.nair289@example.com,+91-9391086093,Bengaluru,2025-10-30 00:00:00,Occasional
+CUST-00290,Ishita Kulkarni,ishita.kulkarni290@example.com,+91-8834812535,Delhi NCR,2025-10-12 00:00:00,Regular
+CUST-00291,Tanvi Kulkarni,tanvi.kulkarni291@example.com,+91-8637046672,Delhi NCR,2025-09-26 00:00:00,High Frequency
+CUST-00292,Meera Mehta,meera.mehta292@example.com,+91-8288011277,Bengaluru,2025-07-12 00:00:00,High Frequency
+CUST-00293,Nisha Bose,nisha.bose293@example.com,+91-7967847466,Bengaluru,2025-06-03 00:00:00,Occasional
+CUST-00294,Aditya Bose,aditya.bose294@example.com,+91-9415429277,Bengaluru,2025-07-31 00:00:00,At Risk / Inactive
+CUST-00295,Nisha Joshi,nisha.joshi295@example.com,+91-8668247132,Bengaluru,2025-05-05 00:00:00,High Frequency
+CUST-00296,Kunal Kulkarni,kunal.kulkarni296@example.com,+91-8931819683,Bengaluru,2025-07-09 00:00:00,VIP / Power Shopper
+CUST-00297,Kabir Sharma,kabir.sharma297@example.com,+91-8619924126,Mumbai,2025-12-11 00:00:00,Regular
+CUST-00298,Ananya Verma,ananya.verma298@example.com,+91-9523652725,Bengaluru,2025-12-10 00:00:00,Regular
+CUST-00299,Diya Patel,diya.patel299@example.com,+91-8302182635,Mumbai,2025-01-08 00:00:00,High Frequency
+CUST-00300,Kabir Aggarwal,kabir.aggarwal300@example.com,+91-9056949493,Bengaluru,2025-05-05 00:00:00,Regular
+CUST-00301,Kabir Mehta,kabir.mehta301@example.com,+91-9371162526,Bengaluru,2025-06-14 00:00:00,Occasional
+CUST-00302,Siddharth Bose,siddharth.bose302@example.com,+91-9786236956,Delhi NCR,2025-07-03 00:00:00,High Frequency
+CUST-00303,Tanvi Joshi,tanvi.joshi303@example.com,+91-9001472250,Mumbai,2025-02-20 00:00:00,Occasional
+CUST-00304,Diya Iyer,diya.iyer304@example.com,+91-8592165525,Bengaluru,2025-06-10 00:00:00,Regular
+CUST-00305,Gaurav Patel,gaurav.patel305@example.com,+91-7626733282,Delhi NCR,2025-01-09 00:00:00,High Frequency
+CUST-00306,Gaurav Chatterjee,gaurav.chatterjee306@example.com,+91-8793484162,Delhi NCR,2025-06-01 00:00:00,High Frequency
+CUST-00307,Kunal Patel,kunal.patel307@example.com,+91-9447227327,Mumbai,2025-05-06 00:00:00,Regular
+CUST-00308,Kunal Nair,kunal.nair308@example.com,+91-9756056675,Mumbai,2025-09-09 00:00:00,Regular
+CUST-00309,Tanvi Gupta,tanvi.gupta309@example.com,+91-9347398593,Bengaluru,2025-09-08 00:00:00,High Frequency
+CUST-00310,Nisha Kulkarni,nisha.kulkarni310@example.com,+91-9250324141,Bengaluru,2025-01-18 00:00:00,Occasional
+CUST-00311,Rohan Kulkarni,rohan.kulkarni311@example.com,+91-7027418321,Bengaluru,2025-07-31 00:00:00,VIP / Power Shopper
+CUST-00312,Neha Verma,neha.verma312@example.com,+91-7648667392,Delhi NCR,2025-01-05 00:00:00,High Frequency
+CUST-00313,Arjun Iyer,arjun.iyer313@example.com,+91-9653582116,Bengaluru,2025-11-23 00:00:00,Regular
+CUST-00314,Rhea Bose,rhea.bose314@example.com,+91-9095318649,Delhi NCR,2025-01-09 00:00:00,VIP / Power Shopper
+CUST-00315,Nisha Mehta,nisha.mehta315@example.com,+91-7071838242,Bengaluru,2025-09-29 00:00:00,Regular
+CUST-00316,Nisha Nair,nisha.nair316@example.com,+91-9157001409,Bengaluru,2025-12-24 00:00:00,Regular
+CUST-00317,Ishita Verma,ishita.verma317@example.com,+91-9252218154,Bengaluru,2025-03-18 00:00:00,High Frequency
+CUST-00318,Rhea Joshi,rhea.joshi318@example.com,+91-8522312933,Mumbai,2025-05-17 00:00:00,Occasional
+CUST-00319,Rohan Iyer,rohan.iyer319@example.com,+91-8971380304,Mumbai,2025-10-17 00:00:00,High Frequency
+CUST-00320,Neha Nair,neha.nair320@example.com,+91-7346247039,Delhi NCR,2025-12-01 00:00:00,At Risk / Inactive
+CUST-00321,Ananya Verma,ananya.verma321@example.com,+91-8628926576,Mumbai,2025-07-13 00:00:00,Regular
+CUST-00322,Ananya Kulkarni,ananya.kulkarni322@example.com,+91-7736086849,Bengaluru,2025-02-12 00:00:00,Regular
+CUST-00323,Meera Kulkarni,meera.kulkarni323@example.com,+91-9430335702,Mumbai,2025-02-18 00:00:00,Occasional
+CUST-00324,Ananya Patel,ananya.patel324@example.com,+91-9973353078,Bengaluru,2025-10-18 00:00:00,Regular
+CUST-00325,Ananya Verma,ananya.verma325@example.com,+91-8204192904,Delhi NCR,2025-10-06 00:00:00,Regular
+CUST-00326,Ananya Gupta,ananya.gupta326@example.com,+91-7067251004,Mumbai,2025-04-17 00:00:00,Regular
+CUST-00327,Siddharth Verma,siddharth.verma327@example.com,+91-7697718498,Mumbai,2025-10-16 00:00:00,High Frequency
+CUST-00328,Siddharth Kulkarni,siddharth.kulkarni328@example.com,+91-8424768819,Delhi NCR,2025-07-16 00:00:00,Occasional
+CUST-00329,Aditya Aggarwal,aditya.aggarwal329@example.com,+91-7336844365,Delhi NCR,2025-09-14 00:00:00,Regular
+CUST-00330,Tanvi Sharma,tanvi.sharma330@example.com,+91-8877279755,Bengaluru,2025-04-29 00:00:00,Occasional
+CUST-00331,Kunal Chatterjee,kunal.chatterjee331@example.com,+91-9558119733,Delhi NCR,2025-07-23 00:00:00,At Risk / Inactive
+CUST-00332,Kunal Sharma,kunal.sharma332@example.com,+91-8173930637,Delhi NCR,2025-08-19 00:00:00,Regular
+CUST-00333,Tanvi Joshi,tanvi.joshi333@example.com,+91-8854772804,Mumbai,2025-04-06 00:00:00,Regular
+CUST-00334,Siddharth Verma,siddharth.verma334@example.com,+91-8268645208,Delhi NCR,2025-05-07 00:00:00,Regular
+CUST-00335,Rohan Nair,rohan.nair335@example.com,+91-8632087531,Bengaluru,2025-12-31 00:00:00,Occasional
+CUST-00336,Aditya Aggarwal,aditya.aggarwal336@example.com,+91-8360122653,Mumbai,2025-07-04 00:00:00,VIP / Power Shopper
+CUST-00337,Aarav Nair,aarav.nair337@example.com,+91-8545833869,Mumbai,2025-05-19 00:00:00,VIP / Power Shopper
+CUST-00338,Rohan Gupta,rohan.gupta338@example.com,+91-8927768913,Mumbai,2025-10-13 00:00:00,Regular
+CUST-00339,Meera Verma,meera.verma339@example.com,+91-7384909986,Bengaluru,2025-07-01 00:00:00,Regular
+CUST-00340,Rhea Chatterjee,rhea.chatterjee340@example.com,+91-8654584280,Mumbai,2025-01-07 00:00:00,High Frequency
+CUST-00341,Siddharth Verma,siddharth.verma341@example.com,+91-9403191167,Delhi NCR,2025-05-05 00:00:00,Regular
+CUST-00342,Ishita Kulkarni,ishita.kulkarni342@example.com,+91-7728004476,Mumbai,2025-03-13 00:00:00,High Frequency
+CUST-00343,Varun Bose,varun.bose343@example.com,+91-7271730355,Bengaluru,2025-03-27 00:00:00,Regular
+CUST-00344,Meera Nair,meera.nair344@example.com,+91-7330374745,Mumbai,2025-07-04 00:00:00,High Frequency
+CUST-00345,Neha Aggarwal,neha.aggarwal345@example.com,+91-9129455245,Delhi NCR,2025-11-01 00:00:00,Regular
+CUST-00346,Arjun Verma,arjun.verma346@example.com,+91-8308496151,Bengaluru,2025-01-04 00:00:00,At Risk / Inactive
+CUST-00347,Kunal Chatterjee,kunal.chatterjee347@example.com,+91-8415370893,Mumbai,2025-08-14 00:00:00,High Frequency
+CUST-00348,Rhea Gupta,rhea.gupta348@example.com,+91-8377246344,Mumbai,2025-11-05 00:00:00,At Risk / Inactive
+CUST-00349,Kabir Bose,kabir.bose349@example.com,+91-7762946257,Mumbai,2025-07-23 00:00:00,At Risk / Inactive
+CUST-00350,Priya Aggarwal,priya.aggarwal350@example.com,+91-9718295375,Delhi NCR,2025-09-09 00:00:00,At Risk / Inactive
+CUST-00351,Neha Iyer,neha.iyer351@example.com,+91-8203879959,Mumbai,2025-07-21 00:00:00,High Frequency
+CUST-00352,Gaurav Patel,gaurav.patel352@example.com,+91-9343459102,Delhi NCR,2025-04-03 00:00:00,Regular
+CUST-00353,Nisha Sharma,nisha.sharma353@example.com,+91-8982652348,Delhi NCR,2025-12-29 00:00:00,High Frequency
+CUST-00354,Priya Aggarwal,priya.aggarwal354@example.com,+91-8757249751,Bengaluru,2025-12-11 00:00:00,Regular
+CUST-00355,Priya Patel,priya.patel355@example.com,+91-9828935922,Mumbai,2025-03-20 00:00:00,Regular
+CUST-00356,Siddharth Verma,siddharth.verma356@example.com,+91-9568106346,Mumbai,2025-09-03 00:00:00,Regular
+CUST-00357,Nisha Joshi,nisha.joshi357@example.com,+91-8796587803,Delhi NCR,2025-10-06 00:00:00,VIP / Power Shopper
+CUST-00358,Tanvi Aggarwal,tanvi.aggarwal358@example.com,+91-9550437218,Delhi NCR,2025-11-23 00:00:00,At Risk / Inactive
+CUST-00359,Sneha Patel,sneha.patel359@example.com,+91-9854838525,Delhi NCR,2025-07-01 00:00:00,High Frequency
+CUST-00360,Rhea Sharma,rhea.sharma360@example.com,+91-9770387920,Delhi NCR,2025-12-13 00:00:00,Regular
+CUST-00361,Kunal Mehta,kunal.mehta361@example.com,+91-7045302356,Bengaluru,2025-02-20 00:00:00,High Frequency
+CUST-00362,Rahul Aggarwal,rahul.aggarwal362@example.com,+91-9396563469,Delhi NCR,2025-10-25 00:00:00,Regular
+CUST-00363,Neha Bose,neha.bose363@example.com,+91-8679908454,Mumbai,2025-08-26 00:00:00,Occasional
+CUST-00364,Gaurav Aggarwal,gaurav.aggarwal364@example.com,+91-7647444557,Delhi NCR,2025-06-26 00:00:00,At Risk / Inactive
+CUST-00365,Diya Verma,diya.verma365@example.com,+91-8786600854,Mumbai,2025-02-13 00:00:00,VIP / Power Shopper
+CUST-00366,Aditya Iyer,aditya.iyer366@example.com,+91-8473460179,Mumbai,2025-08-22 00:00:00,Occasional
+CUST-00367,Rahul Bose,rahul.bose367@example.com,+91-9045102506,Mumbai,2025-02-19 00:00:00,Regular
+CUST-00368,Arjun Iyer,arjun.iyer368@example.com,+91-8289624427,Bengaluru,2025-01-23 00:00:00,Occasional
+CUST-00369,Sneha Sharma,sneha.sharma369@example.com,+91-9783009621,Mumbai,2025-02-25 00:00:00,Regular
+CUST-00370,Ishita Aggarwal,ishita.aggarwal370@example.com,+91-9216176949,Bengaluru,2025-03-31 00:00:00,Regular
+CUST-00371,Kunal Joshi,kunal.joshi371@example.com,+91-8984507492,Mumbai,2025-04-29 00:00:00,Occasional
+CUST-00372,Ishita Gupta,ishita.gupta372@example.com,+91-9823115971,Delhi NCR,2025-08-10 00:00:00,High Frequency
+CUST-00373,Rhea Patel,rhea.patel373@example.com,+91-9543493201,Mumbai,2025-08-08 00:00:00,High Frequency
+CUST-00374,Kabir Patel,kabir.patel374@example.com,+91-7268709250,Mumbai,2025-10-23 00:00:00,VIP / Power Shopper
+CUST-00375,Nisha Gupta,nisha.gupta375@example.com,+91-8400094541,Mumbai,2025-04-11 00:00:00,Regular
+CUST-00376,Varun Kulkarni,varun.kulkarni376@example.com,+91-9266518721,Mumbai,2025-11-24 00:00:00,High Frequency
+CUST-00377,Siddharth Chatterjee,siddharth.chatterjee377@example.com,+91-9521166052,Mumbai,2025-02-28 00:00:00,High Frequency
+CUST-00378,Arjun Chatterjee,arjun.chatterjee378@example.com,+91-9893042129,Bengaluru,2025-12-28 00:00:00,Occasional
+CUST-00379,Rhea Chatterjee,rhea.chatterjee379@example.com,+91-9886690817,Bengaluru,2025-03-10 00:00:00,High Frequency
+CUST-00380,Neha Nair,neha.nair380@example.com,+91-7786170238,Bengaluru,2025-07-11 00:00:00,Regular
+CUST-00381,Rahul Mehta,rahul.mehta381@example.com,+91-9561629386,Mumbai,2025-03-12 00:00:00,Regular
+CUST-00382,Meera Gupta,meera.gupta382@example.com,+91-9729458763,Mumbai,2025-10-03 00:00:00,Regular
+CUST-00383,Ishita Joshi,ishita.joshi383@example.com,+91-9102996505,Bengaluru,2025-05-28 00:00:00,VIP / Power Shopper
+CUST-00384,Kunal Bose,kunal.bose384@example.com,+91-7230258601,Delhi NCR,2025-07-03 00:00:00,At Risk / Inactive
+CUST-00385,Diya Gupta,diya.gupta385@example.com,+91-8649027664,Bengaluru,2025-10-15 00:00:00,Regular
+CUST-00386,Diya Mehta,diya.mehta386@example.com,+91-9111946589,Delhi NCR,2025-08-01 00:00:00,Regular
+CUST-00387,Arjun Bose,arjun.bose387@example.com,+91-7355067637,Bengaluru,2025-10-17 00:00:00,VIP / Power Shopper
+CUST-00388,Neha Nair,neha.nair388@example.com,+91-8180484299,Bengaluru,2025-04-26 00:00:00,Regular
+CUST-00389,Ishita Bose,ishita.bose389@example.com,+91-9127354612,Delhi NCR,2025-10-09 00:00:00,Regular
+CUST-00390,Gaurav Verma,gaurav.verma390@example.com,+91-9332623275,Mumbai,2025-07-07 00:00:00,Regular
+CUST-00391,Ananya Aggarwal,ananya.aggarwal391@example.com,+91-9346569443,Mumbai,2025-04-22 00:00:00,At Risk / Inactive
+CUST-00392,Sneha Aggarwal,sneha.aggarwal392@example.com,+91-8063140236,Delhi NCR,2025-06-02 00:00:00,Occasional
+CUST-00393,Ananya Bose,ananya.bose393@example.com,+91-8497126699,Mumbai,2025-02-14 00:00:00,Regular
+CUST-00394,Sneha Patel,sneha.patel394@example.com,+91-9525113890,Bengaluru,2025-12-19 00:00:00,High Frequency
+CUST-00395,Rhea Kulkarni,rhea.kulkarni395@example.com,+91-7712885628,Mumbai,2025-11-12 00:00:00,VIP / Power Shopper
+CUST-00396,Kabir Patel,kabir.patel396@example.com,+91-9448450685,Bengaluru,2025-06-29 00:00:00,Regular
+CUST-00397,Rhea Joshi,rhea.joshi397@example.com,+91-8390081665,Bengaluru,2025-12-27 00:00:00,High Frequency
+CUST-00398,Gaurav Nair,gaurav.nair398@example.com,+91-9917568337,Delhi NCR,2025-02-18 00:00:00,VIP / Power Shopper
+CUST-00399,Meera Sharma,meera.sharma399@example.com,+91-9817053070,Mumbai,2025-03-06 00:00:00,Regular
+CUST-00400,Aditya Patel,aditya.patel400@example.com,+91-8383394833,Bengaluru,2025-05-07 00:00:00,Occasional
+CUST-00401,Siddharth Bose,siddharth.bose401@example.com,+91-9480023764,Bengaluru,2025-11-20 00:00:00,High Frequency
+CUST-00402,Meera Mehta,meera.mehta402@example.com,+91-7324339920,Mumbai,2025-11-21 00:00:00,Occasional
+CUST-00403,Rohan Mehta,rohan.mehta403@example.com,+91-8194970235,Delhi NCR,2025-12-22 00:00:00,At Risk / Inactive
+CUST-00404,Tanvi Bose,tanvi.bose404@example.com,+91-8405696743,Mumbai,2025-10-25 00:00:00,VIP / Power Shopper
+CUST-00405,Rohan Aggarwal,rohan.aggarwal405@example.com,+91-9726619389,Mumbai,2025-12-07 00:00:00,Regular
+CUST-00406,Rohan Joshi,rohan.joshi406@example.com,+91-7935572425,Mumbai,2025-08-08 00:00:00,Occasional
+CUST-00407,Diya Nair,diya.nair407@example.com,+91-8218023007,Mumbai,2025-06-22 00:00:00,Regular
+CUST-00408,Aditya Chatterjee,aditya.chatterjee408@example.com,+91-8476350425,Mumbai,2025-12-16 00:00:00,Occasional
+CUST-00409,Ananya Verma,ananya.verma409@example.com,+91-8973888646,Delhi NCR,2025-01-09 00:00:00,VIP / Power Shopper
+CUST-00410,Ishita Bose,ishita.bose410@example.com,+91-7002903074,Mumbai,2025-08-08 00:00:00,High Frequency
+CUST-00411,Aditya Kulkarni,aditya.kulkarni411@example.com,+91-7682802977,Mumbai,2025-05-21 00:00:00,VIP / Power Shopper
+CUST-00412,Tanvi Nair,tanvi.nair412@example.com,+91-8597056829,Bengaluru,2025-12-07 00:00:00,At Risk / Inactive
+CUST-00413,Ishita Sharma,ishita.sharma413@example.com,+91-9686949912,Mumbai,2025-06-06 00:00:00,Regular
+CUST-00414,Neha Mehta,neha.mehta414@example.com,+91-7391697534,Delhi NCR,2025-12-27 00:00:00,VIP / Power Shopper
+CUST-00415,Kabir Bose,kabir.bose415@example.com,+91-7569941254,Bengaluru,2025-10-31 00:00:00,High Frequency
+CUST-00416,Arjun Sharma,arjun.sharma416@example.com,+91-9987566830,Bengaluru,2025-06-25 00:00:00,Occasional
+CUST-00417,Meera Aggarwal,meera.aggarwal417@example.com,+91-9051706927,Bengaluru,2025-02-06 00:00:00,High Frequency
+CUST-00418,Rohan Aggarwal,rohan.aggarwal418@example.com,+91-7443247229,Bengaluru,2025-06-10 00:00:00,High Frequency
+CUST-00419,Priya Gupta,priya.gupta419@example.com,+91-7571858688,Mumbai,2025-11-25 00:00:00,At Risk / Inactive
+CUST-00420,Aditya Verma,aditya.verma420@example.com,+91-9419317349,Delhi NCR,2025-01-05 00:00:00,Regular
+CUST-00421,Ishita Bose,ishita.bose421@example.com,+91-7915066176,Mumbai,2025-11-18 00:00:00,Regular
+CUST-00422,Meera Chatterjee,meera.chatterjee422@example.com,+91-8900024225,Delhi NCR,2025-04-22 00:00:00,VIP / Power Shopper
+CUST-00423,Sneha Gupta,sneha.gupta423@example.com,+91-9532200677,Bengaluru,2025-07-16 00:00:00,High Frequency
+CUST-00424,Meera Iyer,meera.iyer424@example.com,+91-8064234397,Bengaluru,2025-05-22 00:00:00,Regular
+CUST-00425,Neha Joshi,neha.joshi425@example.com,+91-9577014150,Delhi NCR,2025-11-08 00:00:00,High Frequency
+CUST-00426,Aarav Kulkarni,aarav.kulkarni426@example.com,+91-7882382645,Mumbai,2025-09-23 00:00:00,Regular
+CUST-00427,Kabir Aggarwal,kabir.aggarwal427@example.com,+91-8269343434,Mumbai,2025-11-27 00:00:00,VIP / Power Shopper
+CUST-00428,Neha Bose,neha.bose428@example.com,+91-7484230338,Mumbai,2025-05-04 00:00:00,Regular
+CUST-00429,Rhea Verma,rhea.verma429@example.com,+91-7051827414,Delhi NCR,2025-07-04 00:00:00,At Risk / Inactive
+CUST-00430,Aditya Mehta,aditya.mehta430@example.com,+91-8807595119,Delhi NCR,2025-07-07 00:00:00,Regular
+CUST-00431,Ishita Bose,ishita.bose431@example.com,+91-7071680424,Bengaluru,2025-10-28 00:00:00,VIP / Power Shopper
+CUST-00432,Varun Patel,varun.patel432@example.com,+91-7259711746,Bengaluru,2025-07-23 00:00:00,Regular
+CUST-00433,Rahul Mehta,rahul.mehta433@example.com,+91-8727768349,Mumbai,2025-02-12 00:00:00,Regular
+CUST-00434,Nisha Chatterjee,nisha.chatterjee434@example.com,+91-8191714875,Bengaluru,2025-02-12 00:00:00,High Frequency
+CUST-00435,Rahul Patel,rahul.patel435@example.com,+91-9303778262,Bengaluru,2025-06-17 00:00:00,High Frequency
+CUST-00436,Rohan Nair,rohan.nair436@example.com,+91-8878988236,Delhi NCR,2025-05-03 00:00:00,VIP / Power Shopper
+CUST-00437,Rohan Mehta,rohan.mehta437@example.com,+91-8947217245,Bengaluru,2025-11-10 00:00:00,Regular
+CUST-00438,Priya Kulkarni,priya.kulkarni438@example.com,+91-9826313349,Delhi NCR,2025-03-31 00:00:00,VIP / Power Shopper
+CUST-00439,Aditya Aggarwal,aditya.aggarwal439@example.com,+91-7703655804,Bengaluru,2025-09-12 00:00:00,At Risk / Inactive
+CUST-00440,Rahul Joshi,rahul.joshi440@example.com,+91-8113457241,Delhi NCR,2025-03-27 00:00:00,High Frequency
+CUST-00441,Varun Aggarwal,varun.aggarwal441@example.com,+91-7126084156,Bengaluru,2025-06-21 00:00:00,Occasional
+CUST-00442,Varun Joshi,varun.joshi442@example.com,+91-8129360134,Bengaluru,2025-12-31 00:00:00,At Risk / Inactive
+CUST-00443,Rohan Bose,rohan.bose443@example.com,+91-9193791472,Mumbai,2025-07-04 00:00:00,VIP / Power Shopper
+CUST-00444,Gaurav Gupta,gaurav.gupta444@example.com,+91-7675641216,Mumbai,2025-05-11 00:00:00,Occasional
+CUST-00445,Gaurav Kulkarni,gaurav.kulkarni445@example.com,+91-7495354059,Delhi NCR,2025-04-27 00:00:00,Regular
+CUST-00446,Aarav Sharma,aarav.sharma446@example.com,+91-8050340486,Bengaluru,2025-01-24 00:00:00,Regular
+CUST-00447,Siddharth Gupta,siddharth.gupta447@example.com,+91-7151885397,Bengaluru,2025-10-11 00:00:00,Occasional
+CUST-00448,Meera Patel,meera.patel448@example.com,+91-8066282253,Mumbai,2025-08-02 00:00:00,At Risk / Inactive
+CUST-00449,Kunal Nair,kunal.nair449@example.com,+91-9454728281,Bengaluru,2025-07-10 00:00:00,VIP / Power Shopper
+CUST-00450,Ananya Gupta,ananya.gupta450@example.com,+91-9215233002,Bengaluru,2025-01-24 00:00:00,At Risk / Inactive
+CUST-00451,Rohan Bose,rohan.bose451@example.com,+91-8334436786,Mumbai,2025-06-17 00:00:00,VIP / Power Shopper
+CUST-00452,Arjun Sharma,arjun.sharma452@example.com,+91-7861876057,Mumbai,2025-05-30 00:00:00,Regular
+CUST-00453,Priya Aggarwal,priya.aggarwal453@example.com,+91-8041890333,Delhi NCR,2025-08-26 00:00:00,High Frequency
+CUST-00454,Diya Patel,diya.patel454@example.com,+91-9347454072,Delhi NCR,2025-05-06 00:00:00,High Frequency
+CUST-00455,Meera Sharma,meera.sharma455@example.com,+91-9325918921,Bengaluru,2025-06-27 00:00:00,Regular
+CUST-00456,Aarav Iyer,aarav.iyer456@example.com,+91-9823098529,Bengaluru,2025-07-12 00:00:00,Occasional
+CUST-00457,Priya Verma,priya.verma457@example.com,+91-9275535874,Bengaluru,2025-05-02 00:00:00,Regular
+CUST-00458,Ananya Gupta,ananya.gupta458@example.com,+91-8201840395,Delhi NCR,2025-02-17 00:00:00,VIP / Power Shopper
+CUST-00459,Neha Joshi,neha.joshi459@example.com,+91-8599840853,Mumbai,2025-08-23 00:00:00,At Risk / Inactive
+CUST-00460,Rohan Chatterjee,rohan.chatterjee460@example.com,+91-9170795726,Bengaluru,2025-03-10 00:00:00,Regular
+CUST-00461,Siddharth Verma,siddharth.verma461@example.com,+91-9438771483,Delhi NCR,2025-02-01 00:00:00,Regular
+CUST-00462,Aditya Patel,aditya.patel462@example.com,+91-8120947541,Mumbai,2025-06-11 00:00:00,At Risk / Inactive
+CUST-00463,Siddharth Aggarwal,siddharth.aggarwal463@example.com,+91-8401239832,Delhi NCR,2025-06-12 00:00:00,Regular
+CUST-00464,Neha Verma,neha.verma464@example.com,+91-7584595923,Bengaluru,2025-10-27 00:00:00,VIP / Power Shopper
+CUST-00465,Sneha Gupta,sneha.gupta465@example.com,+91-9001691476,Mumbai,2025-06-10 00:00:00,Regular
+CUST-00466,Nisha Iyer,nisha.iyer466@example.com,+91-8940969078,Bengaluru,2025-06-07 00:00:00,Regular
+CUST-00467,Sneha Verma,sneha.verma467@example.com,+91-9946583125,Bengaluru,2025-06-05 00:00:00,Occasional
+CUST-00468,Rhea Sharma,rhea.sharma468@example.com,+91-8407863065,Bengaluru,2025-03-17 00:00:00,VIP / Power Shopper
+CUST-00469,Neha Iyer,neha.iyer469@example.com,+91-9205292512,Mumbai,2025-01-26 00:00:00,Regular
+CUST-00470,Varun Gupta,varun.gupta470@example.com,+91-8736851379,Bengaluru,2025-08-20 00:00:00,Regular
+CUST-00471,Nisha Patel,nisha.patel471@example.com,+91-8984460654,Bengaluru,2025-02-22 00:00:00,Occasional
+CUST-00472,Aditya Verma,aditya.verma472@example.com,+91-7264867118,Bengaluru,2025-04-24 00:00:00,VIP / Power Shopper
+CUST-00473,Siddharth Iyer,siddharth.iyer473@example.com,+91-9707107352,Delhi NCR,2025-11-27 00:00:00,VIP / Power Shopper
+CUST-00474,Gaurav Nair,gaurav.nair474@example.com,+91-7093631055,Bengaluru,2025-02-03 00:00:00,High Frequency
+CUST-00475,Arjun Gupta,arjun.gupta475@example.com,+91-8423995953,Bengaluru,2025-03-04 00:00:00,VIP / Power Shopper
+CUST-00476,Arjun Sharma,arjun.sharma476@example.com,+91-9464813860,Bengaluru,2025-08-10 00:00:00,Occasional
+CUST-00477,Siddharth Bose,siddharth.bose477@example.com,+91-8643810426,Bengaluru,2025-12-16 00:00:00,Regular
+CUST-00478,Tanvi Patel,tanvi.patel478@example.com,+91-8181037719,Bengaluru,2025-05-24 00:00:00,Regular
+CUST-00479,Aditya Sharma,aditya.sharma479@example.com,+91-9659343022,Delhi NCR,2025-11-12 00:00:00,High Frequency
+CUST-00480,Priya Bose,priya.bose480@example.com,+91-9365189801,Mumbai,2025-09-03 00:00:00,VIP / Power Shopper
+CUST-00481,Varun Mehta,varun.mehta481@example.com,+91-8800599868,Bengaluru,2025-04-13 00:00:00,Regular
+CUST-00482,Rahul Patel,rahul.patel482@example.com,+91-9334987658,Delhi NCR,2025-01-10 00:00:00,At Risk / Inactive
+CUST-00483,Tanvi Bose,tanvi.bose483@example.com,+91-9081682554,Delhi NCR,2025-06-26 00:00:00,At Risk / Inactive
+CUST-00484,Rahul Iyer,rahul.iyer484@example.com,+91-8161512446,Mumbai,2025-04-03 00:00:00,VIP / Power Shopper
+CUST-00485,Rhea Patel,rhea.patel485@example.com,+91-8206596621,Bengaluru,2025-01-30 00:00:00,Occasional
+CUST-00486,Diya Joshi,diya.joshi486@example.com,+91-9508213290,Mumbai,2025-04-30 00:00:00,At Risk / Inactive
+CUST-00487,Sneha Patel,sneha.patel487@example.com,+91-8035743379,Delhi NCR,2025-05-17 00:00:00,Regular
+CUST-00488,Ananya Patel,ananya.patel488@example.com,+91-8668262032,Delhi NCR,2025-07-01 00:00:00,At Risk / Inactive
+CUST-00489,Ishita Gupta,ishita.gupta489@example.com,+91-9544851934,Bengaluru,2025-06-12 00:00:00,Occasional
+CUST-00490,Tanvi Chatterjee,tanvi.chatterjee490@example.com,+91-8510463320,Bengaluru,2025-10-18 00:00:00,Regular
+CUST-00491,Gaurav Patel,gaurav.patel491@example.com,+91-9328407443,Mumbai,2025-06-08 00:00:00,High Frequency
+CUST-00492,Ananya Verma,ananya.verma492@example.com,+91-7999109703,Bengaluru,2025-11-05 00:00:00,High Frequency
+CUST-00493,Rahul Bose,rahul.bose493@example.com,+91-8424786638,Bengaluru,2025-11-11 00:00:00,High Frequency
+CUST-00494,Aditya Iyer,aditya.iyer494@example.com,+91-7762184337,Delhi NCR,2025-06-15 00:00:00,VIP / Power Shopper
+CUST-00495,Aditya Chatterjee,aditya.chatterjee495@example.com,+91-7608393560,Delhi NCR,2025-02-26 00:00:00,Occasional
+CUST-00496,Tanvi Verma,tanvi.verma496@example.com,+91-9843867732,Mumbai,2025-07-22 00:00:00,Regular
+CUST-00497,Kunal Nair,kunal.nair497@example.com,+91-7586055431,Mumbai,2025-03-22 00:00:00,Regular
+CUST-00498,Meera Kulkarni,meera.kulkarni498@example.com,+91-9788208029,Mumbai,2025-06-12 00:00:00,High Frequency
+CUST-00499,Nisha Aggarwal,nisha.aggarwal499@example.com,+91-8532554057,Delhi NCR,2025-04-25 00:00:00,Regular
+CUST-00500,Ishita Mehta,ishita.mehta500@example.com,+91-9957078297,Mumbai,2025-05-31 00:00:00,VIP / Power Shopper

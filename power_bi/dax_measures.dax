@@ -1,0 +1,135 @@
+// ==============================================================================
+// QuickCommerce Intelligence - Master DAX Measures Catalog for Power BI
+// Modeled for Blinkit, Zepto, and Swiggy Instamart Operations Analytics
+// ==============================================================================
+
+// --- REVENUE & GMV MEASURES ---
+
+Total Orders = 
+COUNTROWS('orders')
+
+Delivered Orders = 
+CALCULATE(
+    COUNTROWS('orders'),
+    'orders'[delivery_status] = "DELIVERED"
+)
+
+Cancelled Orders = 
+CALCULATE(
+    COUNTROWS('orders'),
+    'orders'[delivery_status] = "CANCELLED"
+)
+
+Gross Merchandise Value (GMV) = 
+SUM('orders'[total_amount])
+
+Net Collected Revenue = 
+CALCULATE(
+    SUM('orders'[net_amount]),
+    'orders'[delivery_status] = "DELIVERED"
+)
+
+Average Order Value (AOV) = 
+DIVIDE([Net Collected Revenue], [Delivered Orders], 0)
+
+Total Discounts Granted = 
+SUM('orders'[discount_amount])
+
+Discount Burn Rate % = 
+DIVIDE([Total Discounts Granted], [Gross Merchandise Value (GMV)], 0) * 100
+
+
+// --- DELIVERY & SLA MEASURES ---
+
+Average Delivery Time (Mins) = 
+CALCULATE(
+    AVERAGE('orders'[delivery_time_minutes]),
+    'orders'[delivery_status] = "DELIVERED"
+)
+
+On-Time Delivery Count = 
+CALCULATE(
+    COUNTROWS('orders'),
+    'orders'[delivery_status] = "DELIVERED",
+    'orders'[is_sla_breached] = FALSE()
+)
+
+SLA Breached Count = 
+CALCULATE(
+    COUNTROWS('orders'),
+    'orders'[delivery_status] = "DELIVERED",
+    'orders'[is_sla_breached] = TRUE()
+)
+
+On-Time SLA Rate % = 
+DIVIDE([On-Time Delivery Count], [Delivered Orders], 0) * 100
+
+SLA Breach Rate % = 
+DIVIDE([SLA Breached Count], [Delivered Orders], 0) * 100
+
+
+// --- ORDER QUALITY & DEFECTS ---
+
+Cancellation Rate % = 
+DIVIDE([Cancelled Orders], [Total Orders], 0) * 100
+
+Total Refund Amount = 
+SUM('cancellations'[refund_amount])
+
+Average Refund Per Incident = 
+AVERAGE('cancellations'[refund_amount])
+
+
+// --- INVENTORY INTELLIGENCE ---
+
+Total Catalog SKUs = 
+COUNTROWS('inventory')
+
+Zero Stockout Count = 
+CALCULATE(
+    COUNTROWS('inventory'),
+    'inventory'[current_stock] = 0
+)
+
+Stockout Rate % = 
+DIVIDE([Zero Stockout Count], [Total Catalog SKUs], 0) * 100
+
+Low Stock Safety Breach Count = 
+CALCULATE(
+    COUNTROWS('inventory'),
+    'inventory'[stockout_flag] = TRUE()
+)
+
+In-Stock Rate % = 
+100 - [Stockout Rate %]
+
+
+// --- ADVANCED TIME-INTELLIGENCE & ROLLING MEASURES ---
+
+Orders 7-Day Rolling Average = 
+AVERAGEX(
+    DATESINPERIOD(
+        'calendar'[Date],
+        LASTDATE('calendar'[Date]),
+        -7,
+        DAY
+    ),
+    [Total Orders]
+)
+
+Net Revenue 7-Day Rolling Average = 
+AVERAGEX(
+    DATESINPERIOD(
+        'calendar'[Date],
+        LASTDATE('calendar'[Date]),
+        -7,
+        DAY
+    ),
+    [Net Collected Revenue]
+)
+
+Revenue WoW Growth % = 
+VAR CurrentWeekRev = [Net Collected Revenue]
+VAR PrevWeekRev = CALCULATE([Net Collected Revenue], DATEADD('calendar'[Date], -7, DAY))
+RETURN
+DIVIDE(CurrentWeekRev - PrevWeekRev, PrevWeekRev, 0) * 100

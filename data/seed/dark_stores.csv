@@ -1,0 +1,11 @@
+store_id,store_name,city,locality,capacity_orders_per_hour,latitude,longitude,active_riders_allocated,status
+DS-BLR-01,Koramangala Hub,Bengaluru,Koramangala 4th Block,160,12.9352,77.6245,28,ACTIVE
+DS-BLR-02,Indiranagar Central,Bengaluru,"100 Feet Road, Indiranagar",140,12.9784,77.6408,24,ACTIVE
+DS-BLR-03,HSR Sector 2 Hub,Bengaluru,HSR Layout Sector 2,150,12.9116,77.6389,22,ACTIVE
+DS-BLR-04,Whitefield IT Park,Bengaluru,"ITPB Main Road, Whitefield",110,12.9698,77.7499,16,ACTIVE
+DS-BOM-01,Bandra West Pod,Mumbai,"Hill Road, Bandra West",180,19.0596,72.8295,30,ACTIVE
+DS-BOM-02,Andheri Lokhandwala,Mumbai,"Lokhandwala Complex, Andheri West",165,19.1307,72.8267,26,ACTIVE
+DS-BOM-03,Powai Hiranandani,Mumbai,"Central Ave, Hiranandani Powai",130,19.1197,72.9051,20,ACTIVE
+DS-DEL-01,Gurgaon Cyber Hub Hub,Delhi NCR,"DLF Cyber City, Sector 24 Gurgaon",170,28.495,77.0895,27,ACTIVE
+DS-DEL-02,Noida Sector 62 Pod,Delhi NCR,"Sector 62 Institutional Area, Noida",125,28.628,77.3649,18,ACTIVE
+DS-DEL-03,South Extension Hub,Delhi NCR,South Extension Part II,140,28.5683,77.2208,21,ACTIVE

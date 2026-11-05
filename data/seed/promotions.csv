@@ -1,0 +1,6 @@
+promo_id,promo_code,discount_type,discount_value,min_order_value,max_discount,total_redemptions,is_active
+PR-01,QUICK100,FLAT,100.0,399.0,100.0,1420,True
+PR-02,FEAST20,PERCENTAGE,20.0,299.0,75.0,2890,True
+PR-03,FREEDEL,FLAT,15.0,149.0,15.0,5210,True
+PR-04,SUPERBOWL,PERCENTAGE,15.0,499.0,120.0,840,True
+PR-05,WELCOME50,FLAT,50.0,199.0,50.0,3100,True

@@ -1,0 +1,45 @@
+sku_id,name,category,subcategory,mrp,cost_price,unit,shelf_life_days,is_perishable,brand,data_source
+SKU-DB-001,Amul Taaza Fresh Toned Milk 500ml,Dairy & Breakfast,Milk,27.0,23.5,500 ml,2,True,Amul,public_benchmark
+SKU-DB-002,Nandini Pasteurized Toned Milk 500ml,Dairy & Breakfast,Milk,24.0,20.8,500 ml,2,True,Nandini,public_benchmark
+SKU-DB-003,Amul Salted Butter 100g,Dairy & Breakfast,Butter & Spreads,60.0,52.0,100 g,180,False,Amul,public_benchmark
+SKU-DB-004,Modern Brown Bread 400g,Dairy & Breakfast,Bread & Bakery,50.0,41.0,400 g,5,True,Modern,public_benchmark
+SKU-DB-005,Farm Fresh White Eggs (Pack of 6),Dairy & Breakfast,Eggs,55.0,44.0,6 pcs,14,True,Eggoz,public_benchmark
+SKU-DB-006,Mother Dairy Classic Curd 400g,Dairy & Breakfast,Curd & Yogurt,35.0,29.0,400 g,7,True,Mother Dairy,public_benchmark
+SKU-DB-007,Kellogg's Corn Flakes Original 500g,Dairy & Breakfast,Cereals,220.0,185.0,500 g,270,False,Kellogg's,public_benchmark
+SKU-DB-008,Epigamia Greek Yogurt Natural 90g,Dairy & Breakfast,Curd & Yogurt,50.0,38.0,90 g,15,True,Epigamia,public_benchmark
+SKU-FV-001,Fresh Onion (Pyaz) 1kg,Fruits & Vegetables,Fresh Vegetables,38.0,28.0,1 kg,10,True,Farm Direct,public_benchmark
+SKU-FV-002,Fresh Potato (Aloo) 1kg,Fruits & Vegetables,Fresh Vegetables,32.0,23.0,1 kg,15,True,Farm Direct,public_benchmark
+SKU-FV-003,Hybrid Tomato (Tamatar) 500g,Fruits & Vegetables,Fresh Vegetables,28.0,19.0,500 g,6,True,Farm Direct,public_benchmark
+SKU-FV-004,Fresh Coriander Leaves 100g,Fruits & Vegetables,Herbs & Seasoning,15.0,8.0,100 g,3,True,Farm Direct,public_benchmark
+SKU-FV-005,Robusta Banana (Pack of 5-6),Fruits & Vegetables,Fresh Fruits,45.0,32.0,6 pcs,4,True,Fresh Harvest,public_benchmark
+SKU-FV-006,Washington Royal Gala Apple (4 pcs),Fruits & Vegetables,Fresh Fruits,190.0,145.0,4 pcs,14,True,Imported,public_benchmark
+SKU-FV-007,Fresh Lemon (Nimbu) 200g,Fruits & Vegetables,Fresh Vegetables,35.0,22.0,200 g,8,True,Farm Direct,public_benchmark
+SKU-SN-001,Lay's India's Magic Masala Chips 50g,Snacks & Munchies,Chips & Crisps,20.0,16.2,50 g,120,False,Lay's,public_benchmark
+SKU-SN-002,Kurkure Masala Munch 82g,Snacks & Munchies,Namkeen,20.0,15.8,82 g,120,False,Kurkure,public_benchmark
+SKU-SN-003,Haldiram's Bhujia Sev 200g,Snacks & Munchies,Namkeen,60.0,49.0,200 g,180,False,Haldiram's,public_benchmark
+SKU-SN-004,Act II Instant Popcorn Butter Lovers 85g,Snacks & Munchies,Popcorn,40.0,31.0,85 g,240,False,Act II,public_benchmark
+SKU-SN-005,Oreo Original Chocolate Sandwich Biscuits 120g,Snacks & Munchies,Biscuits & Cookies,35.0,28.5,120 g,180,False,Cadbury,public_benchmark
+SKU-SN-006,Doritos Cheese Nachos 60g,Snacks & Munchies,Chips & Crisps,30.0,24.0,60 g,180,False,Doritos,public_benchmark
+SKU-IF-001,Maggi 2-Minute Masala Noodles 280g (Pack of 4),Instant & Frozen Food,Noodles & Pasta,56.0,47.0,280 g,270,False,Nestle Maggi,public_benchmark
+SKU-IF-002,McCain French Fries 420g,Instant & Frozen Food,Frozen Snacks,125.0,98.0,420 g,365,False,McCain,public_benchmark
+SKU-IF-003,Knorr Classic Mixed Vegetable Soup 53g,Instant & Frozen Food,Soups,45.0,36.0,53 g,365,False,Knorr,public_benchmark
+SKU-IF-004,Yummiez Chicken Nuggets 500g,Instant & Frozen Food,Frozen Meat & Poultry,240.0,185.0,500 g,270,False,Godrej Yummiez,public_benchmark
+SKU-IF-005,Tata Sampann High Protein Ready Poha 80g,Instant & Frozen Food,Ready to Eat,45.0,34.0,80 g,180,False,Tata Sampann,public_benchmark
+SKU-BV-001,Coca-Cola Zero Sugar Can 300ml,Beverages,Soft Drinks,40.0,32.0,300 ml,180,False,Coca-Cola,public_benchmark
+SKU-BV-002,Thums Up Charged 250ml Can,Beverages,Soft Drinks,25.0,19.5,250 ml,180,False,Thums Up,public_benchmark
+SKU-BV-003,Real Fruit Power Mixed Fruit Juice 1L,Beverages,Juices & Drinks,130.0,105.0,1 L,240,False,Real,public_benchmark
+SKU-BV-004,Red Bull Energy Drink 250ml,Beverages,Energy Drinks,125.0,102.0,250 ml,365,False,Red Bull,public_benchmark
+SKU-BV-005,Nescafe Classic Instant Coffee Jar 50g,Beverages,Coffee & Tea,185.0,152.0,50 g,540,False,Nescafe,public_benchmark
+SKU-BV-006,Bisleri Packaged Drinking Water 5L,Beverages,Water,70.0,54.0,5 L,180,False,Bisleri,public_benchmark
+SKU-PC-001,Dettol Original Germ Protection Soap 125g (Pack of 4),Personal Care,Bath & Body,190.0,155.0,4x125 g,720,False,Dettol,public_benchmark
+SKU-PC-002,Colgate Strong Teeth Dental Cream 200g,Personal Care,Oral Care,115.0,92.0,200 g,720,False,Colgate,public_benchmark
+SKU-PC-003,Head & Shoulders Cool Menthol Anti Dandruff Shampoo 340ml,Personal Care,Hair Care,320.0,255.0,340 ml,720,False,Head & Shoulders,public_benchmark
+SKU-PC-004,Nivea Soft Light Moisturizer Cream 100ml,Personal Care,Skin Care,180.0,142.0,100 ml,720,False,Nivea,public_benchmark
+SKU-HC-001,Vim Dishwash Liquid Lemon 500ml,Home & Cleaning,Dishwashing,120.0,96.0,500 ml,720,False,Vim,public_benchmark
+SKU-HC-002,Surf Excel Matic Front Load Detergent Liquid 1L,Home & Cleaning,Laundry,230.0,186.0,1 L,720,False,Surf Excel,public_benchmark
+SKU-HC-003,Harpic Power Plus Toilet Cleaner Liquid 1L,Home & Cleaning,Bathroom Cleaners,215.0,172.0,1 L,720,False,Harpic,public_benchmark
+SKU-HC-004,Origami 3 Ply Soft Toilet Paper Roll (Pack of 4),Home & Cleaning,Paper & Wipes,160.0,120.0,4 rolls,1080,False,Origami,public_benchmark
+SKU-PW-001,Dolo 650mg Paracetamol Tablets (Strip of 15),Pharma & Wellness,First Aid & OTC,34.0,27.5,15 tabs,720,False,Micro Labs,public_benchmark
+SKU-PW-002,Digene Gel Antacid Mint 200ml,Pharma & Wellness,Digestion Care,155.0,125.0,200 ml,540,False,Abbott,public_benchmark
+SKU-PW-003,Volini Fast Pain Relief Spray 40g,Pharma & Wellness,Pain Relief,165.0,132.0,40 g,720,False,Sun Pharma,public_benchmark
+SKU-PW-004,Himalaya Purifying Neem Face Wash 100ml,Pharma & Wellness,Ayurveda & Herbals,140.0,110.0,100 ml,720,False,Himalaya,public_benchmark
